@@ -589,8 +589,7 @@ section .title::after{
   
   .exp-btn {
     display: flex;
-    margin-left: 400px;
-    margin-right: 500px;
+    margin-left: 150px;
     display:inline;
     transition: all 0.3s ease;
   }
